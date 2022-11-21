@@ -1,0 +1,10 @@
+
+# Attemp to Terminate and Remove previous session
+if [ ! -d .git ]; then
+    git clone https://github.com/reyn0pe/Rey-AsupanBot -b main tmp_git
+    mv tmp_git/.git .
+    rm -rf tmp_git
+fi
+
+# start
+python3 main.py
