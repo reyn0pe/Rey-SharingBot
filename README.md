@@ -70,15 +70,15 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 </details>
 
 ## 🏷 Support   
-** Subscribes Channel [@<404/>](https://t.me/reyn0pe)
-** Subscribes Channel [@ReyUpdates](https://t.me/ReyUpdatesCH) untuk info update terbaru.
+- Group Support [@ReySupport](https://t.me/ReySupport)
+- Subscribes Channel [@ReyUpdates](https://t.me/ReyUpdatesCH) untuk info update terbaru.
 
 ## 👨🏻‍💻 Credits
 
-**  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-**  [Rey](https://github.com/reyn0pe) for [Rey-SharingBot](https://github.com/reyn0pe/Rey-SharingBot)
-**  [Risman](https://github.com/mrismanziz) for [File-Sharing-Man](https://github.com://mrismanaziz/File-Sharing-Man)
-**  Based on [CodeXBotz](https://github.com/CodeXBotz) Repo [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
+- [Rey](https://github.com/reyn0pe) for [Rey-SharingBot](https://github.com/reyn0pe/Rey-SharingBot)
+- [Risman](https://github.com/mrismanziz) for [File-Sharing-Man](https://github.com://mrismanaziz/File-Sharing-Man)
+- Based on [CodeXBotz](https://github.com/CodeXBotz) Repo [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 
 ## 📑 License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
